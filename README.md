@@ -21,7 +21,6 @@ A car retailer with 12 dealerships and 10 brands needs one source of truth for d
 | Finance | How do customers pay, and what is our lender exposure? |
 | Service | What do repairs cost, and who stops coming back? |
 
-Every section of [`sql/02_analysis_queries.sql`](sql/02_analysis_queries.sql) is one of these business tasks, written as the question a manager would ask.
 
 ## Data model
 
