@@ -1,4 +1,3 @@
-# car-sales-postgreSQL-analytics
 # Car Sales SQL Analysis
 
 SQL analysis of a multi-dealership car retailer in Indonesia, built in **PostgreSQL**. The project answers real business questions from leadership, sales, marketing, operations, finance and after-sales teams using a 9-table relational database.
