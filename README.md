@@ -161,4 +161,4 @@ Proyek ini menganalisis data penjualan mobil dari 12 dealer menggunakan **Postgr
 
 ## Author
 
-**<Your Name>** · [LinkedIn](<your-linkedin-url>) · [GitHub](<your-github-url>)
+**<Your Name>** · [LinkedIn](<https://www.linkedin.com/in/muhammadaxelmulya/>) · [GitHub](<https://github.com/Axel1411>)
